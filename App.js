@@ -42,7 +42,7 @@ export default function App() {
 
             <Stack.Screen
               name="ProductDetails"
-              component={ProductDetailsScreen} //this should work now
+              component={ProductDetailsScreen} //product
               options={{
                 title: "Product Details",
               }}
